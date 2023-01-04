@@ -370,7 +370,7 @@ main .about img {
 .plataforma {
   height: 30rem;
   margin-top: 5rem;
-  background-image: url('/assets/section-plataforma.png');
+  background-image: url('/assets/section_plataforma.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -571,7 +571,7 @@ max-height: 150px;
 .jobs {
   height: 40rem;
   margin-top: 22rem;
-  background-image: url(/assets/section-team.png);
+  background-image: url(/assets/section_team.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center right;
