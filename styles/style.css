@@ -1018,10 +1018,10 @@ footer {
     display: flex;
   }
   
-  .close-menu,
+ /*  .close-menu,
   .open-menu {
     display: none;
-  }
+  } */
 
   .hero .container {
     flex-direction: row;
